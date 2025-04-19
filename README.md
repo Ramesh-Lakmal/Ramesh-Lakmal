@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramesh-lakmal" alt="ramesh-lakmal" /></a> </p>
 
 <h3 align="center">How to Reach me:</h3>
-<h1 align="center">Email - sarameshlakmal@gmail.com</h1>
+<h6 align="center">Email - sarameshlakmal@gmail.com</h6>
 <p align="left">
 </p>
 
